@@ -12,7 +12,7 @@ const App = () => {
 
       <Subtracao num1={2} num2={2} />
 
-      <Multiplicacao num1={2} num2={2} />
+      <Multiplicacao num1={5} num2={2} />
 
       <Divisao num1={2} num2={2} />
 
